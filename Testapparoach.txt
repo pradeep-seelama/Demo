@@ -1,0 +1,35 @@
+Testing Approach for Ensek Automation POC
+
+Introduction:
+This testing approach is intended to cover all the aspects of the Ensek Automation Test application. The goal is to ensure that the application is functioning as intended and meets the requirements.
+
+Scope:
+The scope of the testing will include the following area:
+
+Functionality testing to ensure that the application is working as expected Using automated scripts and to generate Reports.
+
+Test Environment:
+The testing will be performed on the following platforms & Tools
+Ensek Automation web application
+Cypress Automation tool
+Git hub
+
+Test Data:
+The test data used for testing is sample/Dummy data.
+
+Test Methodology:
+The testing will be performed using the following testing techniques:
+Functional testing: This type of testing will focus on the functionality of the application without considering the internal workings of the application.
+
+Test Cases:
+The testing will cover the following test cases:
+User interface testing:
+Verify that the application is visually appealing 
+Verify that the buttons, links, and other interactive elements are working as expected.
+Functionality testing:
+Verify that the application is able to perform the expected calculations correctly.
+Verify that the application is able to handle different types of inputs correctly.
+Verify that the application is able to display the results correctly.
+
+Conclusion:
+This testing approach outlines the steps that will be taken to test the Ensek Automation Candidate Test application. The testing will cover few aspects of the application to ensure that it is functioning as expected.
