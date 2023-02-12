@@ -1,0 +1,21 @@
+{
+  "name": "ensek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Pradeep S",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.1.0",
+    "cypress-mochawesome-reporter": "^3.3.0",
+    "mysql": "^2.18.1"
+  },
+  "dependencies": {
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.2.2",
+    "save-dev": "^0.0.1-security"
+  }
+}
